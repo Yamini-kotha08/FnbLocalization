@@ -1,6 +1,6 @@
 FlashMessages needs to be localized in Solution files
-Creating resource files
+Creating resource (FoodBeverage meessages )files
 Updating CSVs with tags
-Removing resx files and updating code accordingly
+Removing resx(QAE messages) files and updating code with FoodBeverage meessages accordingly
 Updating LSD Toolkits
 Updating Documents
